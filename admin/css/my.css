@@ -1,0 +1,42 @@
+.f-r {
+	float: right;
+}
+.p-b {
+	padding-bottom: 10px;
+}
+#bulkOptionsContainer {
+	padding-left: 0px;
+}
+.p-t-15 {
+	padding-top: 15px;
+}
+.p-t-30 {
+	padding-top: 30px;
+}
+#load-screen {
+	background: url(../../images/background.jpg);
+	position: fixed;
+	z-index: 10000;
+	top: 0px;
+	width: 100%;
+	height: 1600px;
+}
+#loading {
+	width: 500px;
+	height: 500px;
+	margin: 10% auto;
+	background: url(../../images/loader.gif);
+	background-size: 40%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.user-count {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	line-height: 20px;
+	color: #999;
+}
+.img-profile {
+	width: 250px;
+}

@@ -1,0 +1,42 @@
+[padding-top-30]{padding-top: 30px;}
+[padding-bottom-30]{padding-bottom: 30px;}
+[padding-top-20]{padding-top: 20px;}
+.body {
+	background-color: yellow;
+}
+.bimg{
+	background-color: #d3d3d3;
+}
+.img-text {
+	min-height: 400px;
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html {
+ position: relative;
+ min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+ margin-bottom: 90px;
+ padding-top: 85px;
+}
+
+.footer {
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+ /* Set the fixed height of the footer here */
+ height: 60px;
+ background-color: #DEDEDE;
+ border-bottom: 20px solid #40BFAC;
+ margin: 50px 0px 0px;
+}
+
+.f-r {
+	float: right;
+}
+
+/*-----------------------------------------------------*/
