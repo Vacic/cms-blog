@@ -1,5 +1,5 @@
 <?php 
-$db['db_host'] = 'johnny.heliohost.org';
+$db['db_host'] = 'johnny.heliohost.org:2083';
 $db['db_user'] = 'vacic_vacic';
 $db['db_pass'] = '82469173';
 $db['db_name'] = 'vacic_cms';
